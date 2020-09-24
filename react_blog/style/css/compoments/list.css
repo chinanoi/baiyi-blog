@@ -1,0 +1,53 @@
+.list-header{
+    height: 3rem;
+    line-height: 3rem;
+    border-right:1px solid #d9d9d9;
+    border-left:1px solid #d9d9d9;
+    position: relative;
+}
+.list-name{
+    margin-left:2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.list-total{
+    position: absolute;
+    top:0px;
+    right:1rem;
+    font-size: 1rem;
+}
+.list-title{
+    font-size:1.3rem;
+    color: #1e90ff;
+    /* padding: 0 10px; */
+}
+.list-context{
+    color:#777;
+    font-size: 0.86rem;
+    padding:.5rem 0;
+}
+.list-icon{
+    padding:.5rem 0;
+    color:#AAA;
+    position: relative;
+}
+.list-sort{
+    position: absolute;
+    right: 0;
+    color: #1e90ff;
+    border: 1px solid #1e90ff;
+    border-radius: .3rem;
+    padding: .15rem .4rem;
+    font-size: .7rem;
+}
+.list-tag{
+    padding-right: 1.2rem;
+    font-size: .86rem;
+}
+.ant-list{
+    border-radius: 5px;
+}
+.list-div{
+    border: 1px solid #d9d9d9;
+    padding: 1.5rem 2rem;
+}

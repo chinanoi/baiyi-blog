@@ -1,0 +1,20 @@
+.index-main{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.index-left{
+    padding: .8rem 1rem 0 0;
+}
+.left-body{
+    border-top:2px solid #1890ff ;
+    background: white;
+    border-radius: .3rem;
+}
+.index-right{
+    padding: .8rem  0 0 1rem;
+}
+.right-body{
+    /* border-top:2px solid #1890ff ; */
+    background:white;
+    border-radius: .3rem;
+}

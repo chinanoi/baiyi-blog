@@ -1,0 +1,18 @@
+.index-main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.index-left{
+    padding: .5rem .3rem 0;
+}
+.left-body{
+    background: white;
+    border-radius: .3rem;
+}
+.index-right{
+    padding: .5rem .3rem 0;
+}
+.right-body{
+    background:white;
+    border-radius: .3rem;
+}

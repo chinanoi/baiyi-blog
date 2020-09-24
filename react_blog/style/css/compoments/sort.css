@@ -1,0 +1,17 @@
+.sort{
+    border-top:2px solid #1890ff ;
+}
+.sortList{
+    position: relative;
+    width: 100%;
+}
+.sortNum{
+    position: absolute;
+    right: 0;
+    border: 1px solid #1e90ff;
+    border-radius: 5px;
+    padding:1px 7px;
+}
+.sort .ant-list-item:hover{
+    background: #f3f3f3 !important;
+}
