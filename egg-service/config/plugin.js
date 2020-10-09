@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 /** @type Egg.EggPlugin */
 module.exports = {
@@ -6,24 +6,26 @@ module.exports = {
   // static: {
   //   enable: true,
   // }
+
   swaggerdoc: {
     enable: true,
     package: 'egg-swagger-doc-feat',
   },
+
   validate: {
     enable: true,
-    package: 'egg-validate',
+    package: 'egg-validate'
   },
-  mongoose: {
+  mongoose : {
     enable: true,
     package: 'egg-mongoose',
   },
-  bcrypt: {
+  bcrypt : {
     enable: true,
-    package: 'egg-bcrypt',
+    package: 'egg-bcrypt'
   },
-  jwt: {
-    enable: true,
-    package: 'egg-jwt',
-  },
-}
+  jwt:{
+    enable:true,
+    package:'egg-jwt'
+  }
+};
