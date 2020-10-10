@@ -1,0 +1,64 @@
+.search {
+  align-items: center;
+  display: flex;
+}
+.serach-box {
+  /* display: flex; */
+  /* align-items: center; */
+  /* flex: 1; */
+  text-align: right;
+  margin-bottom: 20px;
+}
+.search-input {
+  /* width: 220px; */
+  margin-right: 10px;
+  display: inline-block;
+}
+el-button {
+  height: 35px;
+  padding: 11px 20px !important;
+}
+.el-input--small .el-input__inner {
+  height: 35px !important;
+  line-height: 35px !important;
+}
+.el-breadcrumb__inner {
+  font-size: 22px !important;
+}
+/* .el-breadcrumb {
+  font-size: 26px !important;
+} */
+.handle-select {
+  width: 120px;
+}
+
+.handle-input {
+  width: 300px;
+  display: inline-block;
+}
+.del-dialog-cnt {
+  font-size: 16px;
+  text-align: center;
+}
+.el-button--small {
+  padding: 10px 15px !important;
+}
+/* 基础宽度样式 */
+.xs {
+  width: 150px !important;
+}
+.sm {
+  width: 180px !important;
+}
+.md {
+  width: 200px !important;
+}
+.lg {
+  width: 220px !important;
+}
+.margin-right {
+  margin-right: 10px;
+}
+.margin-top {
+  margin-top: 10px;
+}

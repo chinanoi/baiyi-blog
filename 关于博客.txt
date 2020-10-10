@@ -1,0 +1,7 @@
+技术栈：
+前台展示：next.js
+后台管理：Vue
+后端接口：koa2+mysql（service1）
+egg.js + MongoDB（service2）
+egg.js + mysql （service3）
+为总结学习故多几组不同的服务端，为对比框架差别等

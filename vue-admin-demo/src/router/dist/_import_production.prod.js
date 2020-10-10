@@ -1,0 +1,1 @@
+"use strict";module.exports=function(e){return require("@/components/"+e+".vue").default};

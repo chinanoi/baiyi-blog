@@ -1,0 +1,47 @@
+.container {
+  padding: 10px 0 0;
+  /* margin-top: -39px; */
+  background: #fff;
+  border-radius: 5px;
+  /* box-shadow: 0 1px 2px rgba(150, 150, 150, 0.3); */
+}
+.margin-table {
+  margin-top: -15px;
+}
+.el-table tr {
+  background-color: #ffffff;
+}
+.pagination {
+  margin: 20px 0;
+  text-align: right;
+}
+
+.plugins-tips {
+  padding: 20px 10px;
+  margin-bottom: 20px;
+}
+
+.el-button + .el-tooltip {
+  margin-left: 10px;
+}
+
+.el-table tr:hover {
+  background: #f6faff;
+}
+.pagination-div {
+  text-align: right;
+  padding: 15px 0;
+  /* box-shadow: 0 1px 2px rgba(150, 150, 150, 0.3); */
+}
+/* 分页 */
+.el-pagination__total {
+  position: absolute;
+  left: 30px;
+}
+.el-pagination__sizes {
+  position: absolute;
+  left: 86px;
+}
+.gutter {
+  display: block !important;
+}

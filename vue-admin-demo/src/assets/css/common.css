@@ -1,0 +1,72 @@
+/* 基础宽度样式 */
+.small {
+  width: 105px !important;
+}
+.xs {
+  width: 150px !important;
+}
+.sm {
+  width: 180px !important;
+}
+.md {
+  width: 200px !important;
+}
+.lg {
+  width: 220px !important;
+}
+.big-lg {
+  width: 240px !important;
+}
+.margin-right {
+  margin-right: 10px !important;
+}
+.margin-right-5 {
+  margin-right: 5px !important;
+}
+/* .btn-margin {
+  margin-left: 0px !important;
+} */
+.margin-top {
+  margin-top: 10px;
+}
+
+/* 搜索文字样式 */
+.label-width {
+  color: #000;
+  font-weight: bold;
+}
+
+/* input框的大小 */
+.input-100 {
+  width: 100px !important;
+}
+.input-105 {
+  width: 105px !important;
+}
+.input-120 {
+  width: 120px !important;
+}
+.input-150 {
+  width: 150px !important;
+}
+.input-180 {
+  width: 180px !important;
+}
+.input-200 {
+  width: 200px !important;
+}
+.input-220 {
+  width: 220px !important;
+}
+.input-250 {
+  width: 250px !important;
+}
+.input-280 {
+  width: 280px !important;
+}
+.input-290 {
+  width: 290px !important;
+}
+.input-300 {
+  width: 300px !important;
+}

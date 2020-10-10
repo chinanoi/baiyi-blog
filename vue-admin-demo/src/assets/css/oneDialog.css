@@ -1,0 +1,29 @@
+.el-dialog__body {
+  padding: 30px 1% !important;
+}
+.one-item {
+  width: 70% !important;
+  margin-left: 15% !important;
+}
+.el-select {
+  width: 100%;
+}
+.el-date-editor.el-input,
+.el-date-editor.el-input__inner {
+  width: 100%;
+}
+.btn-confirm-one {
+  text-align: right;
+  margin-right: 15%;
+}
+.el-dialog__title {
+  font-size: 14px !important;
+}
+.el-form-item__label,
+.el-input__inner,
+.el-select-dropdown__item {
+  font-size: 12px !important;
+}
+.el-dialog__header {
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 1px 4px 0px;
+}

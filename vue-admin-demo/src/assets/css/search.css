@@ -1,0 +1,44 @@
+.crumbs {
+  /* padding-top: 8px; */
+  /* padding-bottom: 21px; */
+  font-weight: 400;
+  color: #353535;
+  /* display: inline-block; */
+  width: 100%;
+  line-height: 27px;
+}
+.search {
+  align-items: center;
+  height: 100%;
+}
+.search-top {
+  margin-top: 8px;
+}
+.serach-box {
+  text-align: right;
+  margin-bottom: 20px;
+}
+.search-input {
+  margin-right: 10px;
+  display: inline-block;
+}
+.search-one {
+  text-align: right;
+  min-width: 542px;
+}
+.search-two {
+  position: relative;
+  width: 55px;
+}
+
+.title {
+  flex: 1;
+  margin-top: 0px;
+  height: 27px;
+  min-width: 166px;
+  line-height: 27px !important;
+  font-size: 12px !important;
+}
+.margin-top {
+  margin-top: 10px !important;
+}

@@ -1,0 +1,47 @@
+.two-form {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+.form-btn {
+  display: block;
+}
+.btn-confirm {
+  text-align: right;
+  margin-right: 4%;
+}
+.confirm {
+  padding: 0 !important;
+  width: 55px;
+  font-size: 12px !important;
+  height: 27px;
+}
+.el-dialog__body {
+  padding: 30px 1%;
+}
+.el-dialog__footer {
+  padding: 20px 20px !important;
+  /* padding-top: 20px;
+  padding-top: 10px; */
+  text-align: right;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.el-select {
+  width: 100%;
+}
+.el-date-editor.el-input,
+.el-date-editor.el-input__inner {
+  /* width: 100% !important; */
+}
+.two-item {
+  width: 48% !important;
+  margin-left: 0 !important;
+}
+.el-dialog__title {
+  font-size: 14px !important;
+}
+.el-form-item__label,
+.el-input__inner,
+.el-select-dropdown__item {
+  font-size: 12px !important;
+}
