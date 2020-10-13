@@ -1,28 +1,28 @@
 /* eslint valid-jsdoc: "off" */
 
-'use strict';
+'use strict'
 
 /**
  * @param {Egg.EggAppInfo} appInfo app info
  */
-module.exports = appInfo => {
+module.exports = (appInfo) => {
   /**
    * built-in config
    * @type {Egg.EggAppConfig}
    **/
-  const config = exports = {};
+  const config = (exports = {})
 
   // use for cookie sign key, should change to your own and keep security
-  config.keys = appInfo.name + '_1561446865227_2139';
+  config.keys = appInfo.name + '_1561446865227_2139'
 
   // add your middleware config here
-  config.middleware = [];
+  config.middleware = []
 
   config.swaggerdoc = {
     dirScanner: './app/controller',
     apiInfo: {
-      title: '开课吧接口',
-      description: '开课吧接口 swagger-ui for egg',
+      title: '接口',
+      description: '接口 swagger-ui for egg',
       version: '1.0.0',
     },
     schemes: ['http', 'https'],
@@ -52,10 +52,10 @@ module.exports = appInfo => {
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',
-  };
+  }
 
   return {
     ...config,
     ...userConfig,
-  };
-};
+  }
+}
